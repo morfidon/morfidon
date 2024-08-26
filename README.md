@@ -81,7 +81,7 @@ To stay updated about the content I create, you may follow me on [LinkedIn](http
       <strong>Game<br>Development:</strong>
     </td>
     <td style="background-color: #2e2e2e; padding: 10px;">
-      <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot" />
+      <a href="https://www.youtube.com/watch?v=sJmnyE9ozjQ&list=PLx_rFty4A2K3ZEo1pzsYTBaPs4RIOnnGr"><img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot" /></a>
     </td>
   </tr>
   <tr>
