@@ -95,6 +95,34 @@ To stay updated about the content I create, you may follow me on [LinkedIn](http
       <img src="https://img.shields.io/badge/Self--Development-4CAF50?style=for-the-badge&logo=bookstack&logoColor=white" alt="Self-Development" />
     </td>
   </tr>
+<tr>
+  <td style="vertical-align: top; padding-right: 15px; background-color: #2e2e2e; color: white;">
+    <strong>I Like</strong>
+  </td>
+  <td style="background-color: #2e2e2e; padding: 10px;">
+    <a href="https://remix.run/"><img src="https://img.shields.io/badge/Remix-141E24?style=for-the-badge&logo=remix&logoColor=white" alt="Remix" /></a>
+    <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /></a>
+    <a href="https://www.pwabuilder.com/"><img src="https://img.shields.io/badge/PWA-4285F4?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA" /></a>
+    <a href="https://www.electronjs.org/"><img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" /></a>
+  </td>
+</tr>
+<tr>
+  <td style="vertical-align: top; padding-right: 15px; background-color: #2e2e2e; color: white;">
+    <strong>Favorite<br>NPMs:</strong>
+  </td>
+  <td style="background-color: #2e2e2e; padding: 10px;">
+    <a href="https://www.framer.com/motion/"><img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" /></a>
+    <a href="https://github.com/pmndrs/zustand"><img src="https://img.shields.io/badge/Zustand-141E24?style=for-the-badge&logo=zustand&logoColor=white" alt="Zustand" /></a>
+    <a href="https://github.com/pmndrs/jotai"><img src="https://img.shields.io/badge/Jotai-141E24?style=for-the-badge&logo=jotai&logoColor=white" alt="Jotai" /></a>
+    <a href="https://github.com/pmndrs/nuqs"><img src="https://img.shields.io/badge/Nuqs-141E24?style=for-the-badge&logo=nuqs&logoColor=white" alt="Nuqs" /></a>
+    <a href="https://axios-http.com/"><img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" /></a>
+    <a href="https://react-query-v3.tanstack.com/"><img src="https://img.shields.io/badge/React%20Query-FF69B4?style=for-the-badge&logo=reactquery&logoColor=white" alt="React Query" /></a>
+    <a href="https://www.i18next.com/"><img src="https://img.shields.io/badge/i18next-1A202C?style=for-the-badge&logo=i18next&logoColor=white" alt="i18next" /></a>
+    <a href="https://trigger.dev/"><img src="https://img.shields.io/badge/Trigger.dev-141E24?style=for-the-badge&logo=trigger&logoColor=white" alt="Trigger.dev" /></a>
+    <a href="https://sentry.io/"><img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" alt="Sentry" /></a>
+    <a href="https://biome.sh/"><img src="https://img.shields.io/badge/Biome-141E24?style=for-the-badge&logo=biome&logoColor=white" alt="Biome" /></a>
+  </td>
+</tr>  
 </table>
 
 ---
