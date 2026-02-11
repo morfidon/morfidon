@@ -3,7 +3,7 @@
 ## I'm Arkadiusz Włodarczyk
 <em><small style='font-size:12px;'>With over 20 years of experience in website development and 15 years in programming</small></em>
 
-I am an _educator_, _programmer_, _full-stack developer_, and _course creator_. I've created 27 popular video courses covering programming, web development, and math. These courses have attracted over <strong>340,000</strong> students on Udemy, a testament to their quality and accessibility.
+I am an _educator_, _programmer_, _full-stack developer_, and _course creator_. I've created 27 popular video courses covering programming, web development, and math. These courses have attracted over <strong>350,000</strong> students on Udemy, a testament to their quality and accessibility.
 
 ## My Teaching Philosophy
 
